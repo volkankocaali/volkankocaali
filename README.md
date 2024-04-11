@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Volkan 👋</h1>
 <h3 align="center">Back End Developer</h3>
 
-- 🔭 I’m currently working on Php (Laravel, Symfony), Javascript (Vue Js) and Go
+- 🔭 I’m currently working on Go and Php (Laravel, Symfony), Javascript (Vue Js)
 - 📫 How to reach me vkocaali@gmail.com
 
 ## 🌐Socials
